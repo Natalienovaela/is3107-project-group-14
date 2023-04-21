@@ -6,7 +6,7 @@ We are from IS3107 Group 14
 This repository is about creating data pipeline using Google Cloud Platform by:
 1. Extracting data from Youtube Data API V3
 2. Transforming using Python, and 
-3. Loading it to BigQuery using Google Composer to run the Airflow. 
+3. Loading it to BigQuery using Google Cloud Composer to create the Airflow environment and Google Cloud Storage to store our dag files. 
 
 # Background
 Content creation has become more prevalent these days. However, becoming one comes with many challenges. One of them is the unpredictable video algorithm (Mittal & Liu, 2021). This is the reason why there are so many aspiring youtubers, but only a few succeed. In this project, we would like to help youtubers and talent agencies identify whether or not it is unpredictable, and the possible things they could do to reach more audience or even have their videos in the trending chart and become the next popular star. 
