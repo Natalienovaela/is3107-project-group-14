@@ -22,7 +22,7 @@ Analysis of commonly used words in the video description.
 Analysis of the correlation between video description length and the number of subscribers.
 
 # Set Up
-Hence, here is the document you need to set up your own data pipeline with out dag files. 
+Hence, here is the document you need to set up your own data pipeline with our dag files. 
 https://docs.google.com/document/d/1NPHpKnZhjBq8kG5n58RQ4bfmcKBqTZSwHa8C2wx6AAM/edit?usp=sharing
 
 Thank you for reading!
